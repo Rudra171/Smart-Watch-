@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to the SmartWatch project! This repository contains the source code and documentation for a smartwatch designed to track the heartrate,bodytemperature, and body steps.
+Welcome to the SmartWatch project! This repository contains the documentation for a smartwatch designed to track the heartrate,bodytemperature, and body steps.
 
 ## Features
 
